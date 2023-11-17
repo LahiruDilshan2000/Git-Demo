@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 data all
 new change
+=======
+data all bugfix
+>>>>>>> bugfix/login-issue
